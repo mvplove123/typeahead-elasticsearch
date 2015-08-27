@@ -10,6 +10,5 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
     <!-- 映射map -->
     <mappers>
             <mapper resource="mapper/hotel_analyse_mapper.xml" />
-    
     </mappers>
 </configuration>
